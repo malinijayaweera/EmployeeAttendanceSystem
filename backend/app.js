@@ -13,7 +13,7 @@ app.use(cors());
 // app.use(bodyParser.json());
 
 //routes
-
+//anushan Dharmarathna
 // connect to db
 const dotenv = require('dotenv');
 dotenv.config({path:'config.env'});
